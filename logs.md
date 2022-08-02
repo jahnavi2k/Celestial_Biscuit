@@ -1,0 +1,4 @@
+-> Revised Python
+-> Internship now over
+-> Supervised and Unsupervised Learning
+-> Linear regression
